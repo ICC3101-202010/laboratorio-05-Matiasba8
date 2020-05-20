@@ -1,0 +1,7 @@
+C:\Users\SEBASTIÁN\Desktop\Lab5 MatíasBustos\Lab5 MatíasBustos\bin\Debug\Lab5 MatíasBustos.exe.config
+C:\Users\SEBASTIÁN\Desktop\Lab5 MatíasBustos\Lab5 MatíasBustos\bin\Debug\Lab5 MatíasBustos.exe
+C:\Users\SEBASTIÁN\Desktop\Lab5 MatíasBustos\Lab5 MatíasBustos\bin\Debug\Lab5 MatíasBustos.pdb
+C:\Users\SEBASTIÁN\Desktop\Lab5 MatíasBustos\Lab5 MatíasBustos\obj\Debug\Lab5 MatíasBustos.csprojAssemblyReference.cache
+C:\Users\SEBASTIÁN\Desktop\Lab5 MatíasBustos\Lab5 MatíasBustos\obj\Debug\Lab5 MatíasBustos.csproj.CoreCompileInputs.cache
+C:\Users\SEBASTIÁN\Desktop\Lab5 MatíasBustos\Lab5 MatíasBustos\obj\Debug\Lab5 MatíasBustos.exe
+C:\Users\SEBASTIÁN\Desktop\Lab5 MatíasBustos\Lab5 MatíasBustos\obj\Debug\Lab5 MatíasBustos.pdb
